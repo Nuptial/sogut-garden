@@ -78,9 +78,9 @@ const Contact = () => {
                   Telefon
                 </h3>
                 <p style={{ lineHeight: "1.6", color: "white" }}>
-                  +90 (212) 123 45 67
+                  +90 (536) 257 53 53
                   <br />
-                  +90 (532) 987 65 43
+                  +90 (533) 553 75 07
                 </p>
               </div>
 
@@ -112,11 +112,7 @@ const Contact = () => {
                   Çalışma Saatleri
                 </h3>
                 <p style={{ lineHeight: "1.6", color: "white" }}>
-                  Pazartesi - Cuma: 09:00 - 18:00
-                  <br />
-                  Cumartesi: 10:00 - 15:00
-                  <br />
-                  Pazar: Kapalı
+                  Pazartesi - Pazar: 08:00 - 12:00
                 </p>
               </div>
             </div>
@@ -295,7 +291,7 @@ const Contact = () => {
               }}
             >
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3019.9529470120997!2d31.415!3d41.283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDE2JzU4LjgiTiAzMcKwMjQnNTQuMCJF!5e0!3m2!1str!2str!4v1234567890"
+                src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d12378.76338047718!2d31.509535168863778!3d41.27170347495383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNDHCsDE2JzIwLjAiTiAzMcKwMzAnNDUuMiJF!5e0!3m2!1sen!2str!4v1744143739346!5m2!1sen!2str"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
